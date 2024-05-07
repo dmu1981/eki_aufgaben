@@ -83,6 +83,7 @@ plt.pause(2)
 
 # Diese Schleife iteriert über 1000 Schritte
 for iter in range(1000):
+    pass
     # Berechnen Sie hier die neuen Klassenzugehörigkeitswahrscheinlichkeiten (Gl. 2)
     
     # Geben Sie hier die Likelihood ihres aktuellen Modells aus (Gl. 4)
