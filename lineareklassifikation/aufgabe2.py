@@ -16,7 +16,7 @@ from matplotlib import pyplot as plt
 #
 # Passen Sie dann das Modell an und verwenden Sie stattdessen
 #
-#   y = w0 + w1 * x1 + w2 * x2 + w3 * x2^2
+#   y = w0 + w1 * x1 + w2 * x2
 # 
 # als Model. Schätzen Sie auch hier die Trennfläche und zeichen Sie ebenfalls.
 
